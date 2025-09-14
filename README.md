@@ -1,6 +1,7 @@
 <h3 align="center">Hi,I'm Berkay.I love writing and coding startups.</h3>
 
-- 🔭 I’m currently working on [Makina Platform](www.makinaplatform.com)
+- 🔭 I’m currently working on Bitamir
+
 
 - 🌱 I’m currently learning **React JS**
 
